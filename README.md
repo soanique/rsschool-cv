@@ -1,2 +1,2 @@
 # rsschool-cv
-https://soanique.github.io/rsschool-cv/cv
+https://soanique.github.io/rsschool-cv
